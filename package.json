@@ -1,0 +1,26 @@
+{
+  "name": "mvc-node",
+  "version": "1.0.0",
+  "description": "— Модель — это образ мысли...  — То есть модели ещё и мыслят?!",
+  "main": "./src/server.js",
+  "scripts": {
+	  "dev": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aduvarov/mvc-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aduvarov/mvc-node/issues"
+  },
+  "homepage": "https://github.com/aduvarov/mvc-node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
